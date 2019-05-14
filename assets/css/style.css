@@ -618,8 +618,8 @@ body {
 #main.archive .post .post-image {
     display: block;
     position: relative;
-    background: black;
-    color: #FFF;
+    background: #FFF;
+    color: black;
     border: 0;
     overflow: hidden
 }
